@@ -1,0 +1,2 @@
+2,1000,0.2,0.0,2.0  ! Dados para o metodo de Runge-Kutta
+0. 0. 		    !  Condicoes iniciais
